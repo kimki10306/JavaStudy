@@ -1,4 +1,4 @@
-package Exam04_1;
+https://github.com/kimki10306/JavaStudy.gitpackage Exam04_1;
 
 public class Exam04_5 {
 	public static void main(String[] args) {
