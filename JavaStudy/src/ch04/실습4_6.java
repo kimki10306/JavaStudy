@@ -2,12 +2,11 @@ package ch04;
 
 public class ½Ç½À4_6 {
 public static void main(String[] args) {
-	int space = 5 - i;
-	for(int space = 5-i; space--) {
-		if(int j = 1; j <= a; j++) {
+	for(int a = 1; a<=5; a++) {
+		for(int b = 1; b <= a; b++) {
 			System.out.print("*");
 		}
-		System.out.println();
+		System.out.println(1);
 	}
 }
 }
